@@ -24,3 +24,6 @@ console.log(parseInt(numero_falso)+10);
 console.log(parseFloat(numero_falso)+45.7);
 //Para convertir de entero a texto se utiliza la funcion String
 console.log(String(numero_entero)+" Este es el numero que se convirtio de entero a texto");
+//Para conocer el tipo de datos se utiliza typeof
+console.log(typeof numero_falso);
+console.log(typeof numero_entero);
